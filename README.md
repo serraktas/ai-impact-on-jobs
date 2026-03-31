@@ -6,5 +6,5 @@ Machine Learning analysis of AI’s impact on future jobs using Logistic Regress
 
 | Name | GitHub |
 |------|--------|
-| Serra Aktaş | [@kullaniciadin](https://github.com/serraktas) |
-| İrem Melike Tanyıldızı | [@kullaniciadi](https://github.com/iremmelike) |
+| Serra Aktaş | [@serraktas](https://github.com/serraktas) |
+| İrem Melike Tanyıldızı | [@iremmelike](https://github.com/iremmelike) |
